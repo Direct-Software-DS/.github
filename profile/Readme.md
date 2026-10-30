@@ -19,7 +19,7 @@ We design and build targeted solutions for specific operational bottlenecks:
 ## 🧩 Core Expertise & Integrations
 
 *   **Applications & Workflows:** Web applications, customer portals, mobile applications, and back-office workflow software.
-*   **Core & Connections:** Custom APIs, complex business logic, and robust system integrations. We seamlessly connect CRM, ERP, Finance, and Commerce platforms, including *Microsoft Dynamics 365, SAP, Salesforce, AFAS, Exact, Oracle NetSuite, Stripe, and HubSpot*.
+*   **Core & Connections:** Custom APIs, complex business logic, and robust system integrations. We seamlessly connect CRM, ERP, DMS, Finance, and Commerce platforms, including *Microsoft Dynamics 365, SAP, Salesforce, AFAS, Exact, Oracle NetSuite, Stripe, and HubSpot*.
 *   **Improve & Extend:** Software modernisation, reliability enhancements, and applied AI for operational workflows.
 
 ## 🛠 Tech Stack & Engineering Standards
@@ -45,13 +45,18 @@ Security requirements shape every layer of our architecture and implementation. 
 
 ## 🗓️ Get clarity in 45 minutes
 
-Bring your software challenge directly to a technical expert. In a free 45-minute consultation, we clarify the main issue and define a practical next step—without needing a complete specification upfront.
+Bring your software challenge directly to a technical expert. In a free 45-minute consultation, we clarify the main issue and define a practical next step without needing a complete specification upfront.
 
 👉 **[Book your 45-minute Google Meet here](https://direct-software.com/schedule)**
 
 🌍 **Location:** Munich, Germany
+
 💼 **Availability:** EU-wide
+
 🌐 **Discover more:** [direct-software.com](https://direct-software.com/)
-✉️ **Client contact:** [projects@direct-software.com](mailto:projects@direct-software.com) 
+
+✉️ **Client contact:** [projects@direct-software.com](mailto:projects@direct-software.com)
+
 ✉️ **General contact:** [info@direct-software.com](mailto:info@direct-software.com)
+
 ✉️ **Collaboration contact:** [collaboration@direct-software.com](mailto:collaboration@direct-software.com)
