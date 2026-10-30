@@ -47,7 +47,8 @@ Security requirements shape every layer of our architecture and implementation. 
 
 Bring your software challenge directly to a technical expert. In a free 45-minute consultation, we clarify the main issue and define a practical next step—without needing a complete specification upfront.
 
-👉 **[Book your 45-minute Google Meet here](https://direct-software.com/en/schedule)**
+👉 **[Book your 45-minute Google Meet here](https://direct-software.com/schedule)**
 
 🌍 **Location:** Munich, Germany | 💼 **Availability:** 100% Remote & Hybrid (EU-wide)
-🌐 **Discover more:** [direct-software.com](https://direct-software.com/) | ✉️ **Contact:** [projects@direct-software.com](mailto:projects@direct-software.com) | ✉️ **Info:** [info@direct-software.com](mailto:info@direct-software.com)
+🌐 **Discover more:** [direct-software.com](https://direct-software.com/) 
+✉️ **Contact:** [projects@direct-software.com](mailto:projects@direct-software.com) | ✉️ **Info:** [info@direct-software.com](mailto:info@direct-software.com)
