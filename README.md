@@ -4,7 +4,7 @@
 
 Direct Software delivers scalable, secure, and high-performance software solutions for complex enterprise environments. From targeted web and mobile applications to full-scale system integrations and custom APIs, we engineer connected software landscapes that improve operational workflows and customer journeys.
 
-Development cycles are strategically accelerated through AI tooling, with every architectural decision and codebase component meticulously vetted by 8+ years of senior engineering expertise. This guarantees a faster time-to-market, reduced Total Cost of Ownership, and strict adherence to enterprise software quality standards.
+Development cycles are strategically accelerated through AI tooling, with every architectural decision and codebase component meticulously vetted by many years of senior engineering expertise. This guarantees a faster time-to-market, reduced Total Cost of Ownership, and strict adherence to enterprise software quality standards.
 
 ## Core Services & Expertise
 
