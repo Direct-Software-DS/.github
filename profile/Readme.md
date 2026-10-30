@@ -49,6 +49,9 @@ Bring your software challenge directly to a technical expert. In a free 45-minut
 
 👉 **[Book your 45-minute Google Meet here](https://direct-software.com/schedule)**
 
-🌍 **Location:** Munich, Germany | 💼 **Availability:** 100% Remote & Hybrid (EU-wide)
-🌐 **Discover more:** [direct-software.com](https://direct-software.com/) 
-✉️ **Contact:** [projects@direct-software.com](mailto:projects@direct-software.com) | ✉️ **Info:** [info@direct-software.com](mailto:info@direct-software.com)
+🌍 **Location:** Munich, Germany
+💼 **Availability:** EU-wide
+🌐 **Discover more:** [direct-software.com](https://direct-software.com/)
+✉️ **Client contact:** [projects@direct-software.com](mailto:projects@direct-software.com) 
+✉️ **General contact:** [info@direct-software.com](mailto:info@direct-software.com)
+✉️ **Collaboration contact:** [collaboration@direct-software.com](mailto:collaboration@direct-software.com)
